@@ -60,5 +60,7 @@ Integrate backend for real-time product management
 
 🧑‍💻 Developer
 Team Name: Project X
+
 📍 C. V. Raman Global University
+
 💬 Feel free to connect and share feedback!
