@@ -59,6 +59,7 @@ Include product filters (by price, brand, etc.)
 Integrate backend for real-time product management
 
 🧑‍💻 Developer
+
 Team Name: Project X
 
 📍 C. V. Raman Global University
